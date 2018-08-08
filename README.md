@@ -43,12 +43,12 @@ python train.py \\
 ```
 ## 4.predict and eval
 ```
-	python predict --net {Vgg16||Vgg19||resnet50}
-	python eval.py
+python predict --net {Vgg16||Vgg19||resnet50}
+python eval.py
 ```
 
 ## result
-![](https://github.com/yxlijun/tensorflow-yolov1/blob/master/demo/result/000032_result.jpg)
+![](https://github.com/yxlijun/tensorflow-yolov1/blob/master/demo/result/000038_result.jpg)
 ![](https://github.com/yxlijun/tensorflow-yolov1/blob/master/demo/result/000023_result.jpg)
 ![](https://github.com/yxlijun/tensorflow-yolov1/blob/master/demo/result/000022_result.jpg)
 ![](https://github.com/yxlijun/tensorflow-yolov1/blob/master/demo/result/000017_result.jpg)
